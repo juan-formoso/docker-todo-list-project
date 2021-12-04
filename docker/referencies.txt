@@ -1,0 +1,7 @@
+Referências externas utilizadas para conclusão do projeto.
+
+ - Requisito 3: referência utilizada para saber o comando a se utilizar para filtrar um container pelo seu nome.
+  https://forums.docker.com/t/how-to-filter-docker-ps-by-exact-name/2880/10
+
+ - Requisito 12: referência utilizada para ter mais precisão e noção dos comandos a serem utilizados.
+  https://docs.docker.com/compose/reference/
