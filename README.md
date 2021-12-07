@@ -8,7 +8,7 @@ Também criei imagens das aplicações e as configurei com docker compose.
 ## Tecnologias usadas
 
 Front-end:
-> Desenvolvido usando: React, Redux, CSS3, HTML5, Javascript ES6
+> Desenvolvido usando: React, Context API, CSS3, HTML5, Javascript ES6
 
 Back-end:
 > Desenvolvido usando: Docker, Docker Compose
